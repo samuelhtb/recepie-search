@@ -1,0 +1,10 @@
+pandas>=2.0,<3
+pyarrow>=12,<25
+numpy>=1.24,<3
+rank-bm25==0.2.2
+streamlit>=1.40,<2
+plotly>=5.23,<7
+# Pendukung preprocessing (opsional; baseline memakai regex standard library)
+# nltk>=3.8
+# Untuk menjalankan unit test:
+pytest>=8,<10
